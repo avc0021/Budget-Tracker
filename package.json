@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/avc0021/Budget-Tracker#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6",
+    "morgan": "^1.10.0"
   }
 }
