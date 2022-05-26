@@ -7,7 +7,6 @@
 [Features](#features)</br>
 [Install](#install)</br>
 [Usage](#usage)</br>
-[License](#license)</br>
 [Questions](#github)</br>
 
 # Contributing
@@ -47,11 +46,9 @@ This will allow the user to accurately balance account.
 ![Screenshot (58)](https://user-images.githubusercontent.com/91796423/166087717-313b1265-4a2a-4640-ba41-4971313101e3.png)
 
 
-Deployed using Heroku and MongoDB Atlas: https://stormy-headland-24832.herokuapp.com/
+Deployed using Heroku and MongoDB Atlas: </br>
+https://stormy-headland-24832.herokuapp.com/
 
-# License
-
-N/A
 
 # Questions
 
