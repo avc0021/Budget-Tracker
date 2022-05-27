@@ -7,7 +7,6 @@
 [Features](#features)</br>
 [Install](#install)</br>
 [Usage](#usage)</br>
-[License](#license)</br>
 [Questions](#github)</br>
 
 # Contributing
@@ -44,11 +43,12 @@ To run this application install the following packages in the command line:</br>
 Budget Tracker allows the user to track withdrawals and deposits with or without data/internet connection. 
 This will allow the user to accurately balance account.
 
-Deployed using Heroku and MongoDB Atlas: https://stormy-headland-24832.herokuapp.com/
+![Screenshot (58)](https://user-images.githubusercontent.com/91796423/166087717-313b1265-4a2a-4640-ba41-4971313101e3.png)
 
-# License
 
-N/A
+Deployed using Heroku and MongoDB Atlas: </br>
+https://stormy-headland-24832.herokuapp.com/
+
 
 # Questions
 
