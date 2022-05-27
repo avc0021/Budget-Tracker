@@ -15,8 +15,7 @@ Adam Castro
 
 # Description
 
-Given the budget tracker without an internet connection the user can input expense and deposits.
-This would be useful for avid travelers who commonly may not have the best connection at times. 
+With this progressive web application the user can utilize the app without an internet connection the user can input expenses and deposits.This would be useful for avid travelers who commonly may not have the best connection at times. 
 
 # Features
 
@@ -31,11 +30,11 @@ Mongoose</br>
 # Install
 
 To run this application install the following packages in the command line:</br>
-`npm init`,</br>
-`npm install`,</br>
-`npm i express`,</br>
-`npm i compression`,</br>
-`npm i mongoose`,</br>
+`npm init`</br>
+`npm install`</br>
+`npm i express`</br>
+`npm i compression`</br>
+`npm i mongoose`</br>
 `npm i morgan`</br>
 
 # Usage
