@@ -9,7 +9,7 @@
 [Contributing](#contributing)</br>
 
 # Description
-With this progressive web application the user can utilize the app without an internet connection the user can input expenses and deposits.This would be useful for avid travelers who commonly may not have the best connection at times. 
+With this progressive web application the user can utilize the app without an internet connection the user can input expenses and deposits. This would be useful for avid travelers who commonly may not have the best connection at times. Budget Tracker allows the user to track withdrawals and deposits with or without data/internet connection.
 
 # Built With
 ![Node](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white) </br>
@@ -27,13 +27,11 @@ To run this application install the following packages in the command line:</br>
 `npm i morgan`</br>
 
 # Usage
-Budget Tracker allows the user to track withdrawals and deposits with or without data/internet connection. 
-This will allow the user to accurately balance account.
 
 ![Screenshot (58)](https://user-images.githubusercontent.com/91796423/166087717-313b1265-4a2a-4640-ba41-4971313101e3.png)
 
 
-Deployed using Heroku and MongoDB Atlas: </br>
+Deployed link: </br>
 https://stormy-headland-24832.herokuapp.com/
 
 
