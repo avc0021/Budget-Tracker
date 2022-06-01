@@ -36,6 +36,6 @@ https://stormy-headland-24832.herokuapp.com/
 
 
 # Contributing
-Adam Castro
+Adam Castro</br>
 Github: https://github.com/avc0021</br>
 Email: AVC0021@GMAIL.COM
